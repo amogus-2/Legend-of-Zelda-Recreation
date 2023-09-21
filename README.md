@@ -6,8 +6,7 @@ By Nelly Azar, Cadence Hagenauer, Paige Mickol, Ava Scherocman, Sam Weigman
 
 This project is a recreation of the first dungeon of The Legend of Zelda (1986), plus some fun bonus features, for Dr. Boggus' 12:40pm section of CSE 3902.
 
-NOTE: Code reviews were done through GitHub pull requests, the grader should have access to the repo
-
+![Complete with Multiplayer!](https://github.com/amogus-2/Legend-of-Zelda-Recreation/assets/33643911/3afca223-0c66-4c48-8d55-667b27e067f6)
 
 ## Program Controls
   Because of multiplayer support, world control keys have been updated to function keys.
@@ -23,7 +22,7 @@ NOTE: Code reviews were done through GitHub pull requests, the grader should hav
   - `X` or `B` use the item in the B slot
 
   #### Multiplayer Controls
-    > Multiplayer is meant to be played on several 100% keyboards
+    > Multiplayer is meant to be played on several full-size keyboards
     
   - Player1 - Green Link
     - `W`, `A`, `S`, `D` to move
@@ -50,6 +49,12 @@ NOTE: Code reviews were done through GitHub pull requests, the grader should hav
   - `1`, `2`, `3`, `4`, `5`, `6`, `7` cause link to use items for testing purposes
   - `Left Mouse` and `Right Mouse` change room
   - `C` toggles collider view
+
+
+
+https://github.com/amogus-2/Legend-of-Zelda-Recreation/assets/33643911/d1c05cf2-d376-4279-8edc-45b289cf7388
+
+
  
   #### Secrets
   - Among Us Hidden Boss
@@ -64,12 +69,6 @@ NOTE: Code reviews were done through GitHub pull requests, the grader should hav
     - Typing `COIN` makes you rich!
   - Retirement Hell
     - Hitting the old man sends you to a retirement home where you must battle his past love interests.
-
-
-## Known Bugs and Problems
-- Sprite layering updates needed
-- Link stops walking when the room changes
-
 
 ## Additional Processes
 
