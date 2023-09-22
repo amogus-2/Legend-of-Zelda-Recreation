@@ -70,6 +70,8 @@ https://github.com/amogus-2/Legend-of-Zelda-Recreation/assets/33643911/d1c05cf2-
   - Retirement Hell
     - Hitting the old man sends you to a retirement home where you must battle his past love interests.
 
+https://github.com/amogus-2/Legend-of-Zelda-Recreation/assets/123522477/4e4b614e-d0ee-451b-bcad-e1c2ce85e15d
+
 ## Additional Processes
 
 - All sprites from the original game are from [Spriters Resource](https://www.spriters-resource.com/nes/legendofzelda/). All team memberes created various texture atlases for all of the sprites using various photo editing tools (GIMP, Piskel, Paint.net). This cleans up the code for storing animations and allows indexing sprites by frame instead of by pixel.
